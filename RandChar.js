@@ -7,4 +7,4 @@ function RandomChar(length) {
     }
     return res;
 }
-console.log(RandomChar(12));
+console.log(RandomChar(6));
