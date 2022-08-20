@@ -3,5 +3,5 @@ function str() {
     console.log("Before: ",a);
     let b = a.replaceAll(" ","");
     console.log("After: ",b);
-}
+
 str()
